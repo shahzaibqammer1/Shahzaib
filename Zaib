@@ -1,6 +1,6 @@
 2-1. Simple Message: Store a message in a variable, and then print that message.
 
-message_kashif="This is first programe of Python Assignment"
+message_zaib="This is first programe of Python Assignment"
 
 print(message_kashif)
 
